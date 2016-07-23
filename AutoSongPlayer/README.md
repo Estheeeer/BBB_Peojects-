@@ -1,8 +1,6 @@
-Lab 1: Meeting the Beaglebone Black and the Linux
-Operating System
-EE 474 Summer 2016
-Workstation #93
-Contributors: Jiaqi Zhang, Xinxin Zhang, Heng Zhou
+Summer 2016
+BBB and Linux Operating System
+Contributors: Xinxin Zhang, Jiaqi Zhang, Heng Zhou
 
 ## Synopsis
 
