@@ -39,7 +39,7 @@ README.md
 Firstly, we created pointers to get access and write to GPIOs and PWM pins by using fprintf(). The three GPIOs 
 we use are GPIO_60, GPIO_48 and GPIO49. fflush() is used to push values on the stack to be executed. Next, we 
 created a counter and used bitwise operation to compare the count value with binary versions of 1, 2 and 4 in 
-order to blink the 3 lEDs in a order from 0 to 7. 
+order to blink the 3 LEDs in a order from 0 to 7. 
 
 Also, we assigned a unique sound/note to each value of the counter.
 
