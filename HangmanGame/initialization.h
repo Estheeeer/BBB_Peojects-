@@ -1,7 +1,6 @@
 /*
  
  Summer 2016
- EE474 Lab2
  Authors: Xinxin Zhang, Jiaqi Zhang, Heng Zhou
  This is the header file that will of initialization.c 
  
