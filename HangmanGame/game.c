@@ -1,7 +1,6 @@
 /*
  
  Summer 2016
- EE474 Lab2
  Authors: Xinxin Zhang, Jiaqi Zhang, Heng Zhou
  Project Introduction: This program will let users play Hangman game with the bash, BBB and LCD display.
  
