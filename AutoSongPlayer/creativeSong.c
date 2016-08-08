@@ -1,7 +1,7 @@
 /*
 Date: 07/07/2016
 Authors: Xinxin Zhang, Jiaqi Zhang, Heng Zhou
-Lab1 project: This program controls the LEDs using GPIOs on the beaglebone interface. It displays a looping count 
+Project: This program controls the LEDs using GPIOs on the beaglebone interface. It displays a looping count 
 of 0 to 7 in binary between 3 LEDs. Further more, it reads in the frequencies of music notes and play it using
  a speaker embedded on the breadboard.
 
