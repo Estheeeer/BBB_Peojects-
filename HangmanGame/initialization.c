@@ -1,8 +1,6 @@
 /*
  
  Summer 2016
- EE474
- Lab2
  Authors: Xinxin Zhang, Jiaqi Zhang, Heng Zhou
  Program Introduction: This code will do the initialization on LCD display. Code should be run on Beaglebone connected with LCD pins.
  
