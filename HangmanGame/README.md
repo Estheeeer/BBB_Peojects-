@@ -19,14 +19,15 @@ Then we implemented a Hangman game that would allow user A to choose  a word and
 2.VCC is wired to a 100K Ohm Potentiometer that is used to control the brighness of the board.
 3.VSS is set to ground.
 4.Bits 0-7 are all used and connected to GPIO pins.
-DB0 ---- GPIO_PIN_66
-DB1 ---- GPIO_PIN_67
-DB2 ---- GPIO_PIN_68
-DB3 ---- GPIO_PIN_69
-DB4 ---- GPIO_PIN_44
-DB5 ---- GPIO_PIN_45
-DB6 ---- GPIO_PIN_46
-DB7 ---- GPIO_PIN_47
+    DB0 ---- GPIO_PIN_66
+    DB1 ---- GPIO_PIN_67
+    DB2 ---- GPIO_PIN_68
+    DB3 ---- GPIO_PIN_69
+    DB4 ---- GPIO_PIN_44
+    DB5 ---- GPIO_PIN_45
+    DB6 ---- GPIO_PIN_46
+    DB7 ---- GPIO_PIN_47
+    RS ---- GPIO_PIN_48
 5. Enable, RS and RW are also wired to GPIO pins.
 RS ---- GPIO_PIN_48
 R/W ---- GPIO_PIN_115
