@@ -15,10 +15,10 @@ Secondly, we run through an initialization routine to set up the board for displ
 Then we implemented a Hangman game that would allow user A to choose  a word and user B to guess the word character by character.
 
 ## Hardware Setup
-1.VDD is set to 5V.
-2.VCC is wired to a 100K Ohm Potentiometer that is used to control the brighness of the board.
-3.VSS is set to ground.
-4.Bits 0-7 are all used and connected to GPIO pins.
+1. VDD is set to 5V.
+2. VCC is wired to a 100K Ohm Potentiometer that is used to control the brighness of the board.
+3. VSS is set to ground.
+4. Bits 0-7 are all used and connected to GPIO pins.
     DB0 ---- GPIO_PIN_66
     DB1 ---- GPIO_PIN_67
     DB2 ---- GPIO_PIN_68
@@ -36,11 +36,11 @@ E ---- GPIO_PIN_20
 ## Included Fiels
 
 initialization.c
-    Set up the board and displays a cursor at the left top corner of the board. This code has to be run before displaying any other info on the board.
+Set up the board and displays a cursor at the left top corner of the board. This code has to be run before displaying any other info on the board.
     
 game.c
-    Plays the Hangman game. User inputs from terminal, game instructions show up on both Terminal and LCD board. Codes in initialization.c are inplemented in this program to get the board ready for display. No need to run initialization.c before running game.c.
+Plays the Hangman game. User inputs from terminal, game instructions show up on both Terminal and LCD board. Codes in initialization.c are inplemented in this program to get the board ready for display. No need to run initialization.c before running game.c.
 
 initialization.h
-    Header file for initialization.c and game.c.
+Header file for initialization.c and game.c.
 
