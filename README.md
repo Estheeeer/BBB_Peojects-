@@ -10,9 +10,9 @@ Linux OS hosting a wirelessly controlled tank to drive various embedded systems 
 
 -  CarMazeGame: a maze game for an Android Bluetooth-controlled sensing tank
 
--  
+ 
 
-![Image of Yaktocat](https://github.com/Estheeeer/BBB_Projects/blob/master/pics/BBB_hardware.JPG)
+![Image of Yaktocat](https://github.com/Estheeeer/BBB_Projects/blob/master/pics/BBB_hardware.JPG =250x250)
 
 
 
